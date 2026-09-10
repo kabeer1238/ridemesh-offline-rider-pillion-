@@ -1,0 +1,10 @@
+.gradle/
+.idea/
+local.properties
+/build/
+**/build/
+*.iml
+
+# Build outputs (do not commit prebuilt APKs)
+*.apk
+/dist/*.apk
